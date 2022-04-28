@@ -1,2 +1,2 @@
 # api_de_games
-Este é um exemplo de api desenvolvido em aprendizado
+Este é uma documentação exemplo de api de games desenvolvido em aprendizado.
